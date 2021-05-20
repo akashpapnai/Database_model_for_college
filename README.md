@@ -12,6 +12,6 @@ This is a model of IIITL database and will be filled by administrator only in or
 - [ ] Displaying information of every student from B.tech, M.tech or Phd when asked</br>
 
 # How to Begin
-Run cred.py file to get started.
+Run <b>cred.py</b> file to get started.
 
 
