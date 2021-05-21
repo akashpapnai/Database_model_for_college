@@ -1,9 +1,10 @@
 # IIITL Database Model
 This is a model of IIITL database and will be filled by administrator only in order to store every student information.
 ## Prerequisites
-- [x] Your system must have some kind of mysql DBMS software installed and running (like <b>mysql docker container</b> or <b>xampp</b>)</br>
+- [x] Python packages <b>mysql</b> and <b>pymysql</b> should be installed on the system.
+- [x] Your system must have some kind of mysql database software installed and running (like <b>mysql docker container</b> or <b>xampp</b>)</br>
 - [x] DBMS port number should be <b>3306</b>.</br>
-- [x] One database named <b>akash</b> should be created manually by administrator on the dbms software and should only work on that database.</br>
+- [x] One database named <b>akash</b> should be created manually by administrator on the database software and should only work on that database.</br>
 - [x] Host name should be <b>localhost</b>.</br>
 ## Features
 - [x] <b>Adding Student to the database</b></br>
