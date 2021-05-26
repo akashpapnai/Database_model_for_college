@@ -10,9 +10,11 @@ This is a model of IIITL database and will be filled by administrator only in or
 - [x] <b>Adding Student to the database</b></br>
 - [x] <b>Searching an student from database</b></br>
 - [x] <b>Password Protected</b></br>
-- [ ] Displaying information of every student from B.tech, M.tech or Phd when asked</br>
+- [x] <b>Cannot see Password while entering credentials.</b></br>
+- [x] <b>Attacker cannot crack username and password even after having full access to code. </b></br>
+- [ ] Displaying information of every student from B.tech, M.tech or Phd when asked.</br>
 
 # How to Begin
-Run <b>cred.py</b> file to get started.
+Run <b>start_here.py</b> file to get started.
 
-
+<div style="position:absolute;font-size:10px;right:1px;"><b>&#169; Akash papnai</div></b>
