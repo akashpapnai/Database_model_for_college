@@ -12,5 +12,6 @@ class check():
     except:
       user.delete(0,tk.END)
       password.delete(0,tk.END)
-      print("ERROR, WRONG CREDENTIALS")
+      print("ERROR, WRONG CREDENTIALS (PLEASE MAKE SURE THAT MYSQL 3306 PORT NUMBER IS CURRENTLY ACTIVE)")
+      print("TRY AGAIN")
       
