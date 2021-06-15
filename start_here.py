@@ -1,7 +1,7 @@
+from checkcred import check
 from tkinter import ttk
 import tkinter as tk
 import os
-from checkcred import check
 
 first = tk.Tk()
 
